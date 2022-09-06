@@ -1,6 +1,6 @@
 let tweets = [
     {
-        username: "hardcorecoder",
+        username: "hardcoder",
         tweet: "Economy doesn't look good"
     },
     {
